@@ -1,0 +1,67 @@
+
+/* ********* */
+/* ********* */
+/* ********* */
+/* ********* */
+/* CUSTOM CSS FOR DEV */
+/* OF */
+/* ATTENDANCE AND ACCOMPLISHMENT */
+/* REPORT SYSTEM */
+/* ********* */
+/* ********* */
+/* ********* */
+/* ********* */
+
+
+@font-face
+{
+    font-family: 'quicksand';
+    src: url(../css/font/quicksand/Quicksand-Regular.ttf) format('truetype');
+}
+
+@font-face
+{
+    font-family: 'raleway';
+    src: url(../css/font/raleway/Raleway-Regular.ttf) format('truetype');
+}
+
+@font-face
+{
+    font-family: 'syncopate';
+    src: url(../css/font/syncopate/Syncopate-Regular.ttf) format('truetype');
+}
+
+@font-face
+{
+    font-family: 'julius sans one';
+    src: url(../css/font/juliussansone/JuliusSansOne-Regular.ttf) format('truetype');
+}
+
+.font-raleway {
+    font-family: 'raleway'
+}
+
+.font-syncopate {
+    font-family: 'syncopate'
+}
+
+.font-julius {
+    font-family: 'julius sans one'
+}
+
+.font-quicksand {
+    font-family: 'quicksand'
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid black !important
+}
+
+.js-exportable td,
+.js-exportable th {
+    text-align: center;
+}
+
+.image-circle img {
+    border-radius: 50%
+}
